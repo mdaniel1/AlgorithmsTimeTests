@@ -47,17 +47,17 @@ APPEND TO STRING VS USING STRINGBUILDER
 
 	---STRINGBUILDER---
 
-	  125 000	=> 0 ms
-	  250 000	=> ~1 ms
-	  500 000	=> ~2 ms
-	1 000 000	=> ~5 ms
-	2 000 000	=> ~13 ms
-	4 000 000	=> ~28 ms
-	8 000 000	=> ~60 ms
-   16 000 000	=> ~127 ms
-   32 000 000	=> ~248 ms
-   64 000 000	=> ~491 ms
-  128 000 000	=> ~1064 ms
+		125 000	=> 0 ms
+		250 000	=> ~1 ms
+		500 000	=> ~2 ms
+	  1 000 000	=> ~5 ms
+	  2 000 000	=> ~13 ms
+	  4 000 000	=> ~28 ms
+	  8 000 000	=> ~60 ms
+	 16 000 000	=> ~127 ms
+	 32 000 000	=> ~248 ms
+	 64 000 000	=> ~491 ms
+	128 000 000	=> ~1064 ms
 
   Result : It isn't the loop that takes time at the loop is identical in both situations,
   it is the fact that a string is not mutable. Therefore, the first test is very slow
