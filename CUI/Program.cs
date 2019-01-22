@@ -132,39 +132,5 @@ namespace CUI
             Console.WriteLine("It may take a while, please do not interrupt the program.");
             Thread.Sleep(1000);
         }
-
-
-        /*
-          PRIME NUMBER CALCULATION TIME
-
-
-         ---HOMEMADE FUNCTION---
-         
-
-          125 000   => 3 seconds
-          250 000   => 14 seconds
-          500 000   => 51 seconds 
-        1 000 000   => 191 seconds
-        2 000 000   => 845 seconds
-        4 000 000   => 5362 seconds (~90 minutes)
-        8 000 000   => 13892 seconds (~232 minutes, ~4 hours)
-
-        Strangely enough, I haven't tested further...
-
-        ---SIEVE OF ERATOSTHENES---
-
-          125 000   => ~2 ms
-          250 000   => ~4 ms
-          500 000   => ~10 ms
-        1 000 000   => ~20 ms
-        2 000 000   => ~44 ms
-        4 000 000   => ~98 ms
-        8 000 000   => ~216 ms
-       16 000 000   => ~437 ms
-       32 000 000   => ~920 ms
-      500 000 000   => ~21636 ms
-    1 000 000 000   => ~48494 ms (Without LINQ, else I get an OutOfMemoryException)
-
-         */
     }
 }
