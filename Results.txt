@@ -39,9 +39,9 @@ APPEND TO STRING VS USING STRINGBUILDER
 	---APPEND TO STRING---
 
 	  125 000   => ~2764 ms
-      250 000   => ~13222 ms 
-      500 000   => ~111396 ms
-    1 000 000   => ~674808 ms
+	  250 000   => ~13222 ms 
+	  500 000   => ~111396 ms
+	1 000 000   => ~674808 ms
 
 	Will not test further
 
@@ -66,7 +66,6 @@ APPEND TO STRING VS USING STRINGBUILDER
   Which means that the stack is very easily filled, thus the need to launch the garbage
   collector, which slows down the process even more.
 
-
 FACTORIAL CALCULATION TIME
 
 	---NAIVE MULTIPLICATION---
@@ -74,4 +73,4 @@ FACTORIAL CALCULATION TIME
 	   125 000	=> ~16621 ms
 	   250 000	=> 
 	   500 000	=> 
-	
+
