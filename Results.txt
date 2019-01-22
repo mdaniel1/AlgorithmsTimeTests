@@ -47,9 +47,9 @@ APPEND TO STRING VS USING STRINGBUILDER
 
 	---STRINGBUILDER---
 
-		125 000	=> 0 ms
-		250 000	=> ~1 ms
-		500 000	=> ~2 ms
+	    125 000	=> 0 ms
+	    250 000	=> ~1 ms
+	    500 000	=> ~2 ms
 	  1 000 000	=> ~5 ms
 	  2 000 000	=> ~13 ms
 	  4 000 000	=> ~28 ms
