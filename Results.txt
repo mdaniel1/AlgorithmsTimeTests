@@ -27,3 +27,41 @@ PRIME NUMBER CALCULATION TIME
        32 000 000   => ~920 ms
       500 000 000   => ~21636 ms
     1 000 000 000   => ~48494 ms (Without LINQ, else I get an OutOfMemoryException)
+
+	Result : The fact I had an additionnal loop which would go from 2 to the number I was going to test
+	for EACH number until the max was reached slowed down the process a lot as time goes on.
+
+	It worked, but it certainly wasn't effective.
+
+
+APPEND TO STRING VS USING STRINGBUILDER
+
+	---APPEND TO STRING---
+
+	  125 000   => ~2764 ms
+      250 000   => ~13222 ms 
+      500 000   => ~111396 ms
+    1 000 000   => ~674808 ms
+
+	Will not test further
+
+	---STRINGBUILDER---
+
+	  125 000	=> 0 ms
+	  250 000	=> ~1 ms
+	  500 000	=> ~2 ms
+	1 000 000	=> ~5 ms
+	2 000 000	=> ~13 ms
+	4 000 000	=> ~28 ms
+	8 000 000	=> ~60 ms
+   16 000 000	=> ~127 ms
+   32 000 000	=> ~248 ms
+   64 000 000	=> ~491 ms
+  128 000 000	=> ~1064 ms
+
+  Result : It isn't the loop that takes time at the loop is identical in both situations,
+  it is the fact that a string is not mutable. Therefore, the first test is very slow
+  because a new string is created and put in the stack at every loop. The content from
+  the previous string is copied and an additionnal 'a' is added to that content.
+  Which means that the stack is very easily filled, thus the need to launch the garbage
+  collector, which slows down the process even more.

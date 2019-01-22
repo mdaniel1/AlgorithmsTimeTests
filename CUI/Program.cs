@@ -100,7 +100,7 @@ namespace CUI
 
             WarningMessage();
 
-            Console.WriteLine("\n---TESTING WITH STRING---");
+            /*Console.WriteLine("\n---TESTING WITH STRING---");
             var watch = Stopwatch.StartNew();
             for (int i = 0; i < number; i++)
             {
@@ -110,16 +110,16 @@ namespace CUI
             var elapsedMs = watch.ElapsedMilliseconds;
             Console.WriteLine($"\n Elapsed time : {elapsedMs} ms\n-------------------------------------------------\n ");
             Console.WriteLine("\nPress any key to continue...");
-            Console.ReadKey();
+            Console.ReadKey();*/
 
-            watch = Stopwatch.StartNew();
             Console.WriteLine("\n---TESTING WITH STRINGBUILDER---");
+            var watch = Stopwatch.StartNew();
             for (int i = 0; i < number; i++)
             {
                 sb.Append('a');
             }
             watch.Stop();
-            elapsedMs = watch.ElapsedMilliseconds;
+            var elapsedMs = watch.ElapsedMilliseconds;
             Console.WriteLine($"\n Elapsed time : {elapsedMs} ms\n-------------------------------------------------\n ");
             Console.WriteLine("\nPress any key to continue...");
 

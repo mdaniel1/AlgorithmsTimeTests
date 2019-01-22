@@ -18,3 +18,13 @@ E:\TechnifuturMathSolution\CUI\obj\Debug\CUI.csproj.CoreCompileInputs.cache
 E:\TechnifuturMathSolution\CUI\obj\Debug\CUI.csproj.CopyComplete
 E:\TechnifuturMathSolution\CUI\obj\Debug\CUI.exe
 E:\TechnifuturMathSolution\CUI\obj\Debug\CUI.pdb
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\bin\Debug\CUI.exe.config
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\bin\Debug\CUI.exe
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\bin\Debug\CUI.pdb
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\bin\Debug\ClassLibrary.dll
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\bin\Debug\ClassLibrary.pdb
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\obj\Debug\CUI.csprojAssemblyReference.cache
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\obj\Debug\CUI.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\obj\Debug\CUI.csproj.CopyComplete
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\obj\Debug\CUI.exe
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\CUI\obj\Debug\CUI.pdb
