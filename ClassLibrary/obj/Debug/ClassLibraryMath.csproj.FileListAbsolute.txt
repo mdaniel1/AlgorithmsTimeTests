@@ -1,0 +1,12 @@
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibraryMath.csprojAssemblyReference.cache
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibraryMath.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibrary.pdb
+E:\TechnifuturMathSolution\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\TechnifuturMathSolution\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibraryMath.csprojAssemblyReference.cache
+E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibraryMath.csproj.CoreCompileInputs.cache
+E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,38 @@
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\SuuS.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\SuuS.pdb
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\obj\Debug\SuuS.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\obj\Debug\SuuS.pdb
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\ClassLibrary.dll
+C:\Users\studentdot0111\Documents\Visual Studio 2017\Projects\SuuS\SuuS\bin\Debug\ClassLibrary.pdb
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\SuuS.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\SuuS.pdb
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\ClassLibrary.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\ClassLibrary.pdb
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\obj\Debug\UnitTesting.csprojAssemblyReference.cache
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\obj\Debug\SuuS.dll
+C:\Users\studentdot0111\Desktop\Projects\TechnifuturMathSolution\UnitTestFactorial\obj\Debug\SuuS.pdb

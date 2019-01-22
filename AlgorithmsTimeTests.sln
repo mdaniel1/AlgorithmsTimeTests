@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTestFactorial\UnitTesting.csproj", "{957E4C6B-9468-4AB8-A0EB-EA0E3E09C313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryMath", "ClassLibrary\ClassLibraryMath.csproj", "{FF93E055-FE30-49C6-9F2A-52EA58608633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUI", "CUI\CUI.csproj", "{1B4274C9-FB4E-4FF6-8C4E-75197221F824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957E4C6B-9468-4AB8-A0EB-EA0E3E09C313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957E4C6B-9468-4AB8-A0EB-EA0E3E09C313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957E4C6B-9468-4AB8-A0EB-EA0E3E09C313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957E4C6B-9468-4AB8-A0EB-EA0E3E09C313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF93E055-FE30-49C6-9F2A-52EA58608633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF93E055-FE30-49C6-9F2A-52EA58608633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF93E055-FE30-49C6-9F2A-52EA58608633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF93E055-FE30-49C6-9F2A-52EA58608633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4274C9-FB4E-4FF6-8C4E-75197221F824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4274C9-FB4E-4FF6-8C4E-75197221F824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4274C9-FB4E-4FF6-8C4E-75197221F824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4274C9-FB4E-4FF6-8C4E-75197221F824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194699CB-20FE-43A7-B827-917EA5BC0BA5}
+	EndGlobalSection
+EndGlobal
