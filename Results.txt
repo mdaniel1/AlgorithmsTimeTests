@@ -65,3 +65,12 @@ APPEND TO STRING VS USING STRINGBUILDER
   the previous string is copied and an additionnal 'a' is added to that content.
   Which means that the stack is very easily filled, thus the need to launch the garbage
   collector, which slows down the process even more.
+
+FACTORIAL CALCULATION TIME
+
+	---NAIVE MULTIPLICATION---
+
+	   125 000	=> ~16621 ms
+	   250 000	=> 
+	   500 000	=> 
+
