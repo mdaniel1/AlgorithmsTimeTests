@@ -65,13 +65,15 @@ namespace CUI
             //Non-recursive
             WarningMessage();
             var watch = Stopwatch.StartNew();
-            BigInteger result = myFact.Calculate(number);
+            BigInteger result = myFact.CalculateRecursive(number);
             watch.Stop();
             var elapsedMs = watch.ElapsedMilliseconds;
 
             Console.WriteLine($"\n Elapsed time : {elapsedMs}ms\n-------------------------------------------------\n{result}\n-------------------------------------------------");
             Console.WriteLine("\nPress any key to continue...");
             Console.ReadKey();
+
+
         }
 
         static void DoPrimeNumber()
@@ -113,13 +115,13 @@ namespace CUI
             Console.ReadKey();
 
             Console.WriteLine("\n---TESTING WITH STRINGBUILDER---");
-            var watch = Stopwatch.StartNew();
+            watch = Stopwatch.StartNew();
             for (int i = 0; i < number; i++)
             {
                 sb.Append('a');
             }
             watch.Stop();
-            var elapsedMs = watch.ElapsedMilliseconds;
+            elapsedMs = watch.ElapsedMilliseconds;
             Console.WriteLine($"\n Elapsed time : {elapsedMs} ms\n-------------------------------------------------\n ");
             Console.WriteLine("\nPress any key to continue...");
 

@@ -10,3 +10,9 @@ E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibraryMath.csprojAssembl
 E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibraryMath.csproj.CoreCompileInputs.cache
 E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibrary.dll
 E:\TechnifuturMathSolution\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\ClassLibrary\obj\Debug\ClassLibraryMath.csprojAssemblyReference.cache
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\ClassLibrary\obj\Debug\ClassLibraryMath.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\studentdot0111\Desktop\Projects\AlgorithmsTimeTests\ClassLibrary\obj\Debug\ClassLibrary.pdb
